@@ -1,7 +1,7 @@
-Google VR SDK for Unity
+# VRhizamakura
+yahoo主催のハッカソン，Hack U 2018 Osaka参加作品です．
 
-This SDK provides Android and iOS developers with the easiest way to add
-Google VR support to their Unity projects.
+VR空間上でアリシアちゃんが膝枕をしてくれます．
 
-The latest version of this SDK, as well as version-specific release notes,
-are available from https://github.com/googlevr/gvr-unity-sdk/releases.
+また，「おはよう」「おやすみ」「辛い」「研究」等の特定のワードに反応し，リアクションをしてくれます．
+slackからの通知を受け取り，あなたに知らせてもくれます．
